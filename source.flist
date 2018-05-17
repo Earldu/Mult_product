@@ -1,0 +1,6 @@
+./tb/TestBench.v
+./rtl/mult.v
+./rtl/Multiplication.v
+./rtl/pixel_accumulation.v
+./rtl/Plural_operation.v
+./rtl/top.v
